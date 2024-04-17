@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  max-height: 100vh;
+  
+}
+
+.container {
+ 
+  display: flex;
+  flex-direction: row-reverse;
+}
+
