@@ -10,7 +10,9 @@ import {
 } from "@ant-design/icons";
 import "./HomePage.scss";
 
-//dark theme #001529;
+
+//TODO:
+//dark theme for homepage #001529;
 
 
 export const HomePage = () => {
